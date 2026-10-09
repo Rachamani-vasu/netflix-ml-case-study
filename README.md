@@ -1,27 +1,22 @@
 # netflix-ml-case-study
 Netflix Viewer Preference Prediction and EDA
 ## Project Folder Structure
-
+```
 netflix-ml-case-study/
-│
 ├── README.md
-│
 ├── data/
 │   ├── raw/
 │   │   └── README.md
 │   └── processed/
 │       └── README.md
-│
 ├── notebooks/
 │   └── README.md
-│
 ├── reports/
 │   └── figures/
 │       └── README.md
-│
 └── src/
     └── README.md
-                                                    
+  ```                                                  
 ## Folder Description
 
 - **data/raw/** – Stores the original dataset.
